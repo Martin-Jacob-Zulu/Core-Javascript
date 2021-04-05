@@ -1,0 +1,16 @@
+{
+  "name": "core-javascript",
+  "version": "1.0.0",
+  "description": "Learning web dev with javascript",
+  "main": "index.js",
+  "repository": "https://github.com/Martin-Jacob-Zulu/Core-Javascript.git",
+  "author": "Martin Jacob Zulu",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
